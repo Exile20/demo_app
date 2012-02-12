@@ -18,6 +18,7 @@ group :assets do
   gem 'uglifier', '1.0.3'
 end
 
+gem 'rake', '0.8.7'
 gem 'jquery-rails', '2.0.0'
 gem 'pg'
 gem 'therubyracer', '>=0.8.2'
